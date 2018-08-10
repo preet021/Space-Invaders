@@ -13,7 +13,7 @@ Space Invaders (Japanese: スペースインベーダー Hepburn: Supēsu Inbēd
 ### Instructions to play 
 * Run the following command to start the game.
     ```sh
-    $ python3 run.py
+    $ python run.py
     ```
 * Press any key(except 'q') to start the game.
 * Press 'q' to quit.
@@ -22,14 +22,14 @@ Space Invaders (Japanese: スペースインベーダー Hepburn: Supēsu Inbēd
 * Use 's' to shoot the faster missile.
 
 ### Requirements
-* The only requirement is **Python3**. Installation details:
+* The only requirement is **Python**. Installation details:
 For Linux:
     ```sh
     $ sudo apt-get update
-    $ sudo apt-get install python3
+    $ sudo apt-get install python
     ```
     For mac:
     ```sh
     $ brew cask update
-    $ sudo brew cask install python3
+    $ sudo brew cask install python
     ```
